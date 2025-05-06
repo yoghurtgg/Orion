@@ -9,7 +9,7 @@ This documentation is for the stable release of Orion Library.
 
 ```lua
 
-local OrionLib = loadstring(game:https://raw.githubusercontent.com/yoghurtgg/Orion/refs/heads/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/yoghurtgg/Orion/refs/heads/main/source')))()
 
 ```
 
